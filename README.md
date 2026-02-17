@@ -20,10 +20,10 @@ Built with **Java Swing**, this project focuses on clean UI design, robust valid
 
 ## ✨ Key Features
 
-* **🔐 Secure User System:** Complete **Sign Up** and **Log In** functionality with credential validation (length checks, matching passwords, and required terms).
-* **📊 Interactive Pokédex:** A dynamic **Home** dashboard where users can cycle through Pokémon (Ditto, Mewtwo, Lunala) and view their HP, Defense, Attack, and Special Stats.
-* **⚙️ Account Management:** A **Settings** page that allows users to update their personal information (First Name, Last Name, Username) which reflects across the entire system.
-* **🎨 Custom Aesthetic UI:** Uses a consistent color palette (`#E6E8F0` / `#1B1F3B`) to provide a modern, "Moonveil" inspired experience.
+* **Secure User System:** Complete **Sign Up** and **Log In** functionality with credential validation (length checks, matching passwords, and required terms).
+* **Interactive Pokédex:** A dynamic **Home** dashboard where users can cycle through Pokémon (Ditto, Mewtwo, Lunala) and view their HP, Defense, Attack, and Special Stats.
+* **Account Management:** A **Settings** page that allows users to update their personal information (First Name, Last Name, Username) which reflects across the entire system.
+* **Custom Aesthetic UI:** Uses a consistent color palette (`#E6E8F0` / `#1B1F3B`) to provide a modern, "Moonveil" inspired experience.
 
 ---
 
