@@ -1,11 +1,5 @@
 # 🌌 Pokémon: Moonveil | Java GUI Application
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swing-blue?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aesthetic-Pink/Blue-ffafcc?style=for-the-badge" />
-</p>
-
 ## 📌 Project Context
 This project was developed as an activity for **Intermediate Programming (Java)** during my **2nd Term** as a BSIT-MWA student at **National University - MOA**. The goal was to demonstrate proficiency in Graphical User Interface (GUI) development, event handling, and Object-Oriented Programming (OOP) principles.
 
